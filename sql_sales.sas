@@ -15,7 +15,7 @@ cards;
 004  2  $100
 ;
 
-data raise; *for mean amount per sale;
+data raise; /*for mean amount per sale*/
 input tier percent;
 cards;
 100   0.5
